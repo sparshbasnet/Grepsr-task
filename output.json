@@ -29,31 +29,31 @@
     },
     "specialties": [
         {
-            "name ": "Family Medicine "
-        },
-        {
-            "name": "Internal Medicine"
-        },
-        {
-            "name": "Mental \/ Chemical HealthCare "
-        },
-        {
-            "name ": "Obstetrics & Gynecology "
-        },
-        {
-            "name ": "PainMedicine "
-        },
-        {
-            "name ": "Pediatrics "
-        },
-        {
-            "name ": "Radiation Oncology "
+            "name": "Urology"
         },
         {
             "name": "Urgent Care"
         },
         {
-            "name": "Urology"
+            "name ": "Radiation Oncology "
+        },
+        {
+            "name ": "Pediatrics "
+        },
+        {
+            "name ": "PainMedicine "
+        },
+        {
+            "name ": "Obstetrics & Gynecology "
+        },
+        {
+            "name": "Mental \/ Chemical HealthCare "
+        },
+        {
+            "name": "Internal Medicine"
+        },
+        {
+            "name ": "Family Medicine "
         }
     ]
 }

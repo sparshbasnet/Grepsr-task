@@ -16,6 +16,7 @@ function removeNull($arr) {
 }
 
 $output = removeNull($jsonToArr);
+$output["specialties"]  = array_reverse($output["specialties"]);
 $outputJson = fopen('./output.json', "w");
 fwrite($outputJson, json_encode($output));
 fclose($outputJson);
