@@ -13,8 +13,6 @@ function removeNull($arr) {
             unset($arr[$key]);
         }
     }
-    // $arr['specialties'] = array_reverse($arr['specialties']);
-    echo $arr['specialties'];
     return $arr;
 }
 
